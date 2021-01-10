@@ -49,14 +49,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['write_contact'])) {
   }
 
   if (empty($write_errors)) {
-    $transport = (new Swift_SmtpTransport('s32.webhost1.ru', 25))
-      ->setUsername('info@leofel.ru')
-      ->setPassword('d2gRccj8A');
+    $transport = (new Swift_SmtpTransport('', 25))
+      ->setUsername('')
+      ->setPassword('');
     $mailer = new Swift_Mailer($transport);
 
     $message = (new Swift_Message('Сообщение с leofel.ru'))
-      ->setFrom(['info@leofel.ru' => $write_contact['name']])
-      ->setTo(['windseeking2@gmail.com' => 'Инна']);
+      ->setFrom(['' => $write_contact['name']])
+      ->setTo(['' => '']);
 
     $message_content = include_template('email-write.php', [
       'contact_subject' => $title,
