@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad5b8411-25f0-4136-8947-aa0ce448de8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leofel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/mysql_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google9cc9a76d6ddc51ad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/jquery.backgroundvideo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/jquery.backgroundvideo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/Паспорт_станка_ПСП-2Ш.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/Руководство_по_эксплуатации_станок_ПСП-2Ш.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/ТУ_на_станок_ПСП-2Ш.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/err404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/DaysOne.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/izgotovleniye-opticheskikh-detaley.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/background-video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/flash-fallback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery-1.7.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.backgroundvideo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.maskedinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/machines.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/material_id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/materials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M10-1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M10-2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M10-3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M10-4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M40-1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M40-2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M40-3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M40-4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M5-1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M5-2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M5-3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/M5-4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/back-active.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/back-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/cancel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/doc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/logo-lasex.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/logo-leofel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/logo-polus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/next-active.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/next-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/number-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/number-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/number-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/numbers-sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/numbers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/place.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/placeholder-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/play-active.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/play-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/psp2e-2sh-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/psp2e-2sh-2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/psp2e-2sh-3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/psp2e-2sh-4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/search-focus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/stanok-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/stanok-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/stanok-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/stanok-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/stanok-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/tick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/ui.totop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/yandex-tab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/درد-2ط (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/درد-2ط (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/درد-2ط-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/درد-2ط-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/درد-2ط-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/درد-2ط-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/media/درد-2ط-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/proyektirovaniye-tekhnologicheskogo-oborudovaniya.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/service.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/service_id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/_contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/_invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/_pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/_privacy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/_terms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/email-call.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/email-write.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/err404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/izgotovleniye-opticheskikh-detaley.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/layout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/machine_id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/machines.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/material_id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/materials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/proyektirovaniye-tekhnologicheskogo-oborudovaniya.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/service.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/service_id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/soon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yandex_dda65e860a65fe75.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1mshviV2ey79qE0rBibkTBUiUNW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5b8411-25f0-4136-8947-aa0ce448de8f" name="Default Changelist" comment="" />
+      <created>1610288438637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610288438637</updated>
+      <workItem from="1610288439879" duration="412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

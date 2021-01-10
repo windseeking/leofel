@@ -1,0 +1,12 @@
+{
+    "name": "leofel/leofel",
+    "authors": [
+        {
+            "name": "windseeking",
+            "email": "windseeking2@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
